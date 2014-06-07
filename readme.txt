@@ -1,9 +1,10 @@
 === Plugin Name ===
 Contributors: OntoDevelopment
+Donate link: http://ontodevelopment.com/donate/
 Tags: meetup.com, meetup
 Requires at least: 3.9.1
 Tested up to: 3.9.1
-Stable tag: 4.3
+Stable tag: 0.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,6 +20,9 @@ being more than one venue listed per real physical location.
 
 == Installation ==
 
+1. Upload 'plugin-name.php' to the '/wp-content/plugins/' directory,
+1. Activate the plugin through the 'Plugins' menu in WordPress.
+
 After installing and activating this plugin, you will need to provide your Meetup.com API key.
 
 Your key can be acquired here: https://secure.meetup.com/meetup_api/key/
@@ -31,7 +35,13 @@ Yes, in order to get an API key you will need to be a member. However this plugi
 
 == Screenshots ==
 
+1. Venues Search in Admin Dashboard
+1. Shortcode being used in the post content and a widget
+
 == Changelog ==
 
 = 0.01 =
 * Launched initial beta version
+
+== Upgrade Notice ==
+No upgrades planned.
